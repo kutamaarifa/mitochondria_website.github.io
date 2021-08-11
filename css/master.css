@@ -533,7 +533,7 @@ footer hr {
 /* Fuel Cells */
 
 .fuel_header {
-    background: url("/Users/kramano/Documents/Mito/Mitochondria website/images/h2_value_chain.png") center no-repeat;
+    background: url("../images/h2_value_chain.png") center no-repeat;
     background-size: cover;
 }
 .top_img{
@@ -647,7 +647,7 @@ justify-self: center;
 /* Ownership */
 
 .ownership_header {
-    background: url("/Users/kramano/Documents/Mito/Mitochondria website/images/h2_blue.png") center no-repeat;
+    background: url("../images/h2_blue.png") center no-repeat;
     background-size: cover;
 }
 
@@ -695,7 +695,7 @@ justify-self: center;
 /* about us */
 
 .about_header {
-    background: url("/Users/kramano/Documents/Mito/Mitochondria website/images/h2_blue.png") center no-repeat;
+    background: url("../images/h2_blue.png") center no-repeat;
     background-size: cover;
 }
 .aboutus {
@@ -849,7 +849,7 @@ grid-gap: 10%;
 
 /* Meet Us */ 
 .meet_header {
-    background: url("/Users/kramano/Documents/Mito/Mitochondria website/images/h2_blue.png") center no-repeat;
+    background: url("../images/h2_blue.png") center no-repeat;
     background-size: cover;
 }
 .meet {
@@ -963,7 +963,7 @@ grid-gap: 10%;
 
 /* Hydrogen Valley */
 .hydrogen_header {
-    background: url("/Users/kramano/Documents/Mito/Mitochondria website/images/h2_blue.png") center no-repeat;
+    background: url("../images/h2_blue.png") center no-repeat;
     background-size: cover;
 }
 .hydrogen blockquote {
